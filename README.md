@@ -5,3 +5,4 @@ This repo will be deleted once the test gets successful response.
 
 ## Below texts are to test commits.
 1. A
+2. B
